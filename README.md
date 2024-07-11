@@ -1,7 +1,7 @@
 Hi 👋 My name is Frankie
 ========================
 
-Web Developer
+Junior Web Developer
 ----------------------
 
 I've been teaching myself to code after discovering an intrigue in and aptitude for HTML and CSS in a previous job. I have been using The Complete 2024 Web Development Bootcamp on Udemy to expand my skills and am now seeking a job where I can put these to use and challenge myself even further.
