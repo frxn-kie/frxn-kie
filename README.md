@@ -4,7 +4,7 @@ Hi 👋 My name is Frankie
 Junior Web Developer
 ----------------------
 
-I've been teaching myself to code after discovering an intrigue in and aptitude for HTML and CSS in a previous job. I have been using The Complete 2024 Web Development Bootcamp on Udemy to expand my skills and am now seeking a job where I can put these to use and challenge myself even further.
+I've been teaching myself to code after discovering an intrigue in and aptitude for HTML and CSS in a previous job. I have been using The Complete 2024 Web Development Bootcamp on Udemy to expand my skills and am now completing [CodeFirstGirls CFGdegree](https://codefirstgirls.com/). I am seeking a job where I can implement my skills and continue to challenge myself  further.
 
 * 🌍  I'm based in London, United Kingdom
 * ✉️  You can contact me at [francescabartlett00@gmail.com](mailto:francescabartlett00@gmail.com)
